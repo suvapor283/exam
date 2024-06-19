@@ -1,6 +1,6 @@
-package exam;
+package exam.exam01;
 
-public class Exam01 {
+public class HelloJava {
 
 	public static void main(String[] args) {
 		
